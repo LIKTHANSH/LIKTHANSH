@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I’m Likthansh 👋
 
-<!--
-**LIKTHANSH/LIKTHANSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student with strong interests in **Machine Learning, Computer Vision, and Deep Learning**.  
+🤖 AI/ML Intern at **OriginHash (BAIID Auto Technologies)**.  
+🏆 **1st Prize – Pune Agri Hackathon (Government of Maharashtra)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Languages:** Python, Java, C, SQL  
+- **ML / DL:** Scikit-learn, TensorFlow, Keras, PyTorch  
+- **Computer Vision:** OpenCV, MediaPipe, Dlib, YOLOv8  
+- **Data Engineering:** SQL, MongoDB, ETL (Pentaho)  
+- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 NeuroVision – Eye-Gaze Controlled Smart Home
+- Multimodal gaze-intent system using eye gaze, blinks, and head pose  
+- MediaPipe FaceMesh + LSTM-based intent prediction  
+- Arduino-based IoT appliance control  
+🔗 Repo: https://github.com/LIKTHANSH/NeuroVision
+
+---
+
+### 🔊 Accent-Aware Neural Audio Codec
+- Neural audio compression using convolutional autoencoder  
+- Preserves accent, pitch, and prosody  
+- Achieved higher perceptual quality than MP3  
+🔗 Repo: *(add when public)*
+
+---
+
+### 👁️ Eye-Gaze Virtual Keyboard
+- Hands-free typing using gaze direction and blink detection  
+- Built with OpenCV and Dlib  
+🔗 Repo: *(add when public)*
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/likthansh  
+- 📧 Email: likthansh@gmail.com
+
+---
+
+⭐ *More projects coming soon. Actively building and learning.*
