@@ -27,6 +27,16 @@
 
 ---
 
+## 🚀 Featured Projects
+### 🏙️ **Smart City Analytics System** – Real-Time Data Pipeline
+   - End-to-end pipeline for Chennai monitoring AQI, weather, and traffic.
+   - Uses Apache NiFi/Kafka for ingestion, PySpark for processing, and LSTM for pollution prediction.
+   - Features adaptive dynamic thresholding and a safe route recommendation engine.
+   - Built with Python, Spark, Kafka, Elasticsearch, PostgreSQL, and Flask.
+   🔗 Repo: https://github.com/LIKTHANSH/SmartCity-Analytics
+
+---
+
 ### 👁️ NeuroVision – Eye-Gaze Virtual Keyboard
 - Hands-free typing system using **gaze direction** (left/right) and **blink detection**
 - **MediaPipe FaceMesh** iris landmarks detect gaze; blink held for 6 frames selects a letter
