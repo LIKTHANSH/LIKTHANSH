@@ -103,16 +103,14 @@ likthansh = {
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LIKTHANSH&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/LIKTHANSH)
-
-</div>
-
 ---
 
 <div align="center">
-⭐ <i>More projects coming soon. Actively building and learning.</i>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=LIKTHANSH.LIKTHANSH)
+
+⭐ *More projects coming soon. Actively building and learning.*
+
 </div>
+
+
