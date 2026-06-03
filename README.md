@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Likthansh&fontSize=48&fontColor=e94560&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=18&descAlignY=58&descColor=a8b2d8)
+# Hi 👋, I'm Likthansh
+### Data Science · Machine Learning · Computer Vision · Deep Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-likthansh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likthansh)
 [![Gmail](https://img.shields.io/badge/Gmail-likthansh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likthansh@gmail.com)
@@ -28,10 +29,10 @@ likthansh = {
 
 ## 🏆 Achievements
 
-| 🥇 | Achievement |
-|----|-------------|
+| | Achievement |
+|---|---|
 | 🏆 | **1st Prize – Pune Agri Hackathon (International)** · Government of Maharashtra · INR 25 Lakh Grant · 2025 |
-| 📄 | **Research Paper – FICTA 2026** · Springer · SCOPUS/Web of Science indexed · Adaptive Eye-Gaze Wheelchair Navigation |
+| 📄 | **Research Paper – FICTA 2026** · Springer · SCOPUS/Web of Science · Adaptive Eye-Gaze Wheelchair Navigation |
 | 🎓 | **Merit Scholarship** · Vellore Institute of Technology · 2022–23 |
 | 📜 | **Google Advanced Data Analytics** · Coursera · 2025 |
 
@@ -89,8 +90,8 @@ likthansh = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -106,16 +107,14 @@ likthansh = {
 
 <div align="center">
 
-![Likthansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIKTHANSH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIKTHANSH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/LIKTHANSH)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIKTHANSH&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIKTHANSH&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/LIKTHANSH)
 
 </div>
 
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
-
+⭐ <i>More projects coming soon. Actively building and learning.</i>
 </div>
