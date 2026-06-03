@@ -103,13 +103,11 @@ likthansh = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIKTHANSH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/LIKTHANSH)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIKTHANSH&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/LIKTHANSH)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LIKTHANSH&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/LIKTHANSH)
 
 </div>
 
