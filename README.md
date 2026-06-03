@@ -106,8 +106,9 @@ likthansh = {
 
 <div align="center">
 
-![Likthansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIKTHANSH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIKTHANSH&layout=compact&theme=tokyonight&hide_border=true)
+![Likthansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIKTHANSH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIKTHANSH&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
