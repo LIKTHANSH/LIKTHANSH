@@ -50,6 +50,17 @@ likthansh = {
 
 ## 🚀 Featured Projects
 
+### 🎧 [Accent-Aware Neural Codec (AANC)](https://github.com/LIKTHANSH/AANC_Project)
+> Advanced AI audio compression codec designed to preserve local speaker accents and prosody.
+> Built with U-Net Autoencoders, achieving **32x compression ratio** with excellent intelligibility (STOI: 0.91) and perceptual quality (PESQ: 4.08).
+- Implemented **skip connections + SE attention** for fine-grained feature reconstruction
+- Optimized custom training pipeline using **MSE + Spectral Convergence + MFCC** combined loss
+- Surpasses traditional MP3/Opus in speech compression benchmarks at equivalent bitrates
+
+`PyTorch` `Librosa` `Deep Learning` `Audio Processing` `U-Net`
+
+---
+
 ### 🧠 [NeuroVision – Eye-Gaze Smart Home Control](https://github.com/LIKTHANSH/NeuroVision)
 > Hands-free IoT control via eye blinks — no physical input required.
 - **MediaPipe FaceMesh** (468 landmarks) + custom **AMGIN (LSTM)** model — reduced false triggers by **70%**
